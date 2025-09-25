@@ -6,7 +6,6 @@ This repository contains an implementation of a **priority-based scheduler** des
 ## Features
 
 - **Priority-Based Scheduling:** Processes/threads are assigned priorities; higher-priority tasks are scheduled before lower-priority ones.
-- **Preemptive and/or Non-Preemptive Modes:** (Adapt as relevant—update after reviewing code specifics)
 
 o run the tests:
 
