@@ -24,6 +24,7 @@ Check
 
 From now on, QEMU will automatically start for each test. When you see the 'Powering off...' screen, you must close QEMU and continue until the tests are complete.
 
-OVA LINK with Ubuntu 14 and PintOS already installed:
-https://drive.google.com/file/d/16ny3hYCQglmG4L2YoeBQDPAczV8nUaUN/view?usp=sharing
-
+---
+## Team Members
+- Vitaggio Marcello 
+- Vitale Fabrizio Mario Loris 
