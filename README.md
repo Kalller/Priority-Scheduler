@@ -7,7 +7,7 @@ This repository contains an implementation of a **priority-based scheduler** des
 
 - **Priority-Based Scheduling:** Processes/threads are assigned priorities; higher-priority tasks are scheduled before lower-priority ones.
 
-- Run the tests:
+## How to run the tests
 
 1. Open the terminal.
 
@@ -16,13 +16,9 @@ cd pintos/src/threads
 
 3. Build the "threads" project:
 
-Do this
+4. Run all tests
 
-4. Run all tests:
-
-Check
-
-From now on, QEMU will automatically start for each test. When you see the 'Powering off...' screen, you must close QEMU and continue until the tests are complete.
+5. From now on, QEMU will automatically start for each test. When you see the 'Powering off...' screen, you must close QEMU and continue until the tests are complete.
 
 ---
 ## Team Members
