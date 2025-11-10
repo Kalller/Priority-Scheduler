@@ -7,7 +7,7 @@ This repository contains an implementation of a **priority-based scheduler** des
 
 - **Priority-Based Scheduling:** Processes/threads are assigned priorities; higher-priority tasks are scheduled before lower-priority ones.
 
-o run the tests:
+- Run the tests:
 
 1. Open the terminal.
 
